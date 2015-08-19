@@ -10,7 +10,7 @@
 right: 200px;
 }
 
-.weather{
+.header{
 	background-color: #787878;
 	height: 170px;
 	color: white;
@@ -18,22 +18,15 @@ right: 200px;
 	 text-align: right;
 }
 
-.weather-degree{
-  	padding-right: 0px;
+.header-text{
+  	padding-right: 10px;
     text-align: right;
   	font-family: Tw Cen MT;
   	margin-top: 10px;
 
 }
 
-.weather-cloudy{
-	font-size: 1.4em;
- 	text-align: left; 
- 	padding-left: 0px;
- 	margin-top: 10px;
-}
-
-.weather-date{
+.header-small-text{
 	font-size: 0.23em;
  	
 }

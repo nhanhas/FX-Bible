@@ -4,14 +4,14 @@
 
 <div class="Home" ng-class="{'animate':move}">
   <!-- weather -->
-  <div class="row test">
-    <div class="weather">
+  <div class="row">
+    <div class="header">
 
-        <div class="weather-degree col-xs-12">
+        <div class="header-text col-xs-12">
             Components
         </div>
 
-      <div class="weather-date col-xs-12">
+      <div class="header-small-text col-xs-12">
         The ultimate vault for us!
       </div>
     </div>
@@ -22,7 +22,7 @@
   <div class="menus">
     <!-- First Row -->
     <div class="row">
-     <div class="menu-1 col-xs-4">
+     <div class="menu-1 col-xs-4" ng-click="navigate('/buttonsView')">
         <i class="menu-icons fa fa-square fa-3x"></i>
         <span class="menu-design">Buttons</span>
       </div>

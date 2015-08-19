@@ -17,6 +17,10 @@ app
 	        templateUrl: 'views/view2.html',
 	        controller: 'View2Controller'
 	      }).
+	     when('/buttonsView', {
+			templateUrl: 'views/buttonsView.html',
+			controller: 'ButtonsViewController'
+		 }).
 	      otherwise({
 	        redirectTo: '/home'
 	      });
