@@ -11,7 +11,7 @@ right: 200px;
 }
 
 .weather{
-	background-color: #0099CC;
+	background-color: #787878;
 	height: 170px;
 	color: white;
 	 font-size: 4.5em;
@@ -20,6 +20,7 @@ right: 200px;
 
 .weather-degree{
   	padding-right: 0px;
+    text-align: right;
   	font-family: Tw Cen MT;
   	margin-top: 10px;
 
@@ -71,12 +72,59 @@ right: 200px;
 	height: 110px;
 
 }
+
 .menu-6{
 	background-color: #AABFE6;
 	height: 110px;
 
 }
 
+.menu-7{
+	background-color: #4DB6AC;
+	height: 110px;
+
+}
+.menu-8{
+	background-color: #4FC3F7;
+	height: 110px;
+
+}
+.menu-9{
+	background-color: #4CAF50;
+	height: 110px;
+
+}
+.menu-10{
+	background-color: #FF9E80;
+	height: 110px;
+
+}
+.menu-11{
+	background-color: #B39DDB;
+	height: 110px;
+
+}
+.menu-12{
+	background-color: #EF9A9A;
+	height: 110px;
+
+}
+
+.menu-13{
+    background-color: #C5CAE9;
+    height: 110px;
+
+}
+.menu-14{
+    background-color: #A7FFEB;
+    height: 110px;
+
+}
+.menu-15{
+    background-color: #FFF9C4;
+    height: 110px;
+
+}
 
 .menu-icons{
 	margin-top: 20px;
