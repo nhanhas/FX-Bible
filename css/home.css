@@ -1,0 +1,87 @@
+.Home{
+	position: relative;
+	right :0;
+	display: block !important;
+	-webkit-transition:all linear 0.5s;
+	transition:all linear 0.5s;
+}
+
+.Home.animate {
+right: 200px;
+}
+
+.weather{
+	background-color: #0099CC;
+	height: 170px;
+	color: white;
+	 font-size: 4.5em;
+	 text-align: right;
+}
+
+.weather-degree{
+  	padding-right: 0px;
+  	font-family: Tw Cen MT;
+  	margin-top: 10px;
+
+}
+
+.weather-cloudy{
+	font-size: 1.4em;
+ 	text-align: left; 
+ 	padding-left: 0px;
+ 	margin-top: 10px;
+}
+
+.weather-date{
+	font-size: 0.23em;
+ 	
+}
+
+
+.menus{
+	background-color: #33B5E5;
+	text-align: center;
+}
+
+
+.menu-1{
+	background-color: #C5B788;
+	height: 110px;
+
+}
+
+.menu-2{
+	background-color: #33B597;
+	height: 110px;
+
+}
+.menu-3{
+	background-color: #E6AAAA;
+	height: 110px;
+
+}
+.menu-4{
+	background-color: #D8EF9F;
+	height: 110px;
+
+}
+
+.menu-5{
+	background-color: #C3C3C2;
+	height: 110px;
+
+}
+.menu-6{
+	background-color: #AABFE6;
+	height: 110px;
+
+}
+
+
+.menu-icons{
+	margin-top: 20px;
+}
+.menu-design{
+	display: block;
+}
+
